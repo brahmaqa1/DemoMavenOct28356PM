@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-22T22:44:57 IST" name="Default suite" finished-at="2022-10-22T22:45:16 IST" duration-ms="18160">
+    <groups>
+    </groups>
+    <test started-at="2022-10-22T22:44:57 IST" name="Default test" finished-at="2022-10-22T22:45:16 IST" duration-ms="18160">
+      <class name="OrangrHRMsPractiseTestsOptimised.DeletingSingleUserTC11">
+        <test-method signature="deletingSingleUserTC11()[pri:0, instance:OrangrHRMsPractiseTestsOptimised.DeletingSingleUserTC11@57af006c]" started-at="2022-10-22T22:44:58 IST" name="deletingSingleUserTC11" finished-at="2022-10-22T22:45:16 IST" duration-ms="18093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletingSingleUserTC11 -->
+      </class> <!-- OrangrHRMsPractiseTestsOptimised.DeletingSingleUserTC11 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
